@@ -23,7 +23,7 @@ Copiei a Introdução e o Primeiro Capítulo do conteúdo fornecido pelo ChatGPT
 ## 🚀 Resultados
 O EBook apresenta um conteúdo rico e de fundamental importância para pessoas que estão ou almejam chegar a um cargo de liderança. A escrita, persuasiva, foi feita com linguagem simples. Além de definição teórica, alguns capítulos apresentam dicas, ferramentas e exemplos de pessoas que conseguiram superar determinados desafios.
 
-[LINK PARA O E-BOOK AQUI]()
+[LINK PARA O E-BOOK AQUI](Ebook - Desafio Dio.pdf)
 
 ## 💭 Reflexão (Opcional)
 Eu já havia testado, recentemente, o ChatGPT para escrever um livro de ficção. No começo, sentia necessidade de fazer muitos ajustes e uma certa frustração por informações que criavam furos de roteiro, mas comecei a aperfeiçoar meus prompts e percebi o amadurecimento do conteúdo. 
